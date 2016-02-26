@@ -1,0 +1,17 @@
+{
+    "name": "diego/evencooleruri",
+    "type": "typo3-cms-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "diego",
+            "email": "diego@sirdiego.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "replace": {
+        "evencooleruri": "self.version",
+        "typo3-ter/evencooleruri": "self.version"
+    },
+}
