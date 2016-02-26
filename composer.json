@@ -9,7 +9,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "typo3/cms-core": "^7.6.0"
+    },
     "replace": {
         "evencooleruri": "self.version",
         "typo3-ter/evencooleruri": "self.version"
